@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="l4l_view_hr_leave_form_inherit" model="ir.ui.view">
+        <field name="name">l4l.hr.leave.form.inherit</field>
+        <field name="model">hr.leave</field>
+        <field name="inherit_id" ref="hr_holidays.hr_leave_view_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='name']" position="after">
+                <field name="cancel_reason" invisible="state != 'refuse'"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>
