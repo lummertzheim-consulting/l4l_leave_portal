@@ -1,0 +1,37 @@
+.sale-return-container {
+    margin-bottom: 10px;
+}
+
+.sale-return-container h2 {
+    margin-left: 10px;
+}
+
+.divider {
+    border-top: 1px solid #000;
+    margin-bottom: 10px;
+}
+
+.leave-heading-div {
+    font-size: 12px;
+    margin-left: 12px;
+}
+
+.leap_required {
+    border: 2px solid red;
+}
+
+
+.sale-return-modal-fade {
+   display: none;
+}
+
+.sale-return-tbody-number-div {
+   display: flex;
+   align-items: center;
+   flex: 0 0 auto;
+}
+
+.sale-return-tbody-number-div input{
+  width: 50px;
+  text-align: center;
+}

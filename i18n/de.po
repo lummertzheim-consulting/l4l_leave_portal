@@ -1,0 +1,183 @@
+# German translations for l4l_leave_portal
+msgid ""
+msgstr ""
+"Project-Id-Version: l4l_leave_portal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-19 00:00+0000\n"
+"PO-Revision-Date: 2025-08-19 00:00+0000\n"
+"Last-Translator: JB <grote@liebesdeutschland.de>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_home_hr_leave_portal_details
+msgid "Leaves"
+msgstr "Urlaube"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_home_hr_leave_portal_details
+msgid "View, Create And Update Employee Leaves."
+msgstr "Mitarbeiterurlaube anzeigen, erstellen und bearbeiten."
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_hr_leave_portal_home_menu_record_details
+msgid "Leave"
+msgstr "Urlaub"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Create New"
+msgstr "Neu erstellen"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Create Leave"
+msgstr "Urlaub beantragen"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Description"
+msgstr "Beschreibung"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Employees"
+msgstr "Mitarbeiter"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Time Of Type"
+msgstr "Art des Urlaubs"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Start Date"
+msgstr "Startdatum"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "End Date"
+msgstr "Enddatum"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Half Day"
+msgstr "Halber Tag"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Custom Hours"
+msgstr "Individuelle Stunden"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "From"
+msgstr "Von"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "To"
+msgstr "Bis"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Duration"
+msgstr "Dauer"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Submit"
+msgstr "Absenden"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Close"
+msgstr "Schließen"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "There are currently no time off requests created for this user."
+msgstr "Für diesen Benutzer wurden bisher keine Abwesenheitsanträge erstellt."
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "To Submit"
+msgstr "Einzureichen"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "To Approve"
+msgstr "Zu genehmigen"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Refused"
+msgstr "Abgelehnt"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Second Approval"
+msgstr "Zweite Genehmigung"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_list
+msgid "Approved"
+msgstr "Genehmigt"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_update_employee_leave
+msgid "Update Leave"
+msgstr "Urlaub aktualisieren"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_cancel_employee_leave
+msgid "Cancel Leave"
+msgstr "Urlaub stornieren"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_cancel_employee_leave
+msgid "Reason For Cancel"
+msgstr "Stornierungsgrund"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_cancel_employee_leave
+msgid "Cancel"
+msgstr "Stornieren"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "History"
+msgstr "Verlauf"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "Employee:"
+msgstr "Mitarbeiter:"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "Time Off Type:"
+msgstr "Urlaubsart:"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "Cancel Reason:"
+msgstr "Stornierungsgrund:"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "Start Date:"
+msgstr "Startdatum:"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "End Date:"
+msgstr "Enddatum:"
+
+#. module: l4l_leave_portal
+#: model_terms:ir.ui.view,arch_db:l4l_leave_portal.l4l_portal_employee_leave_detail_rec
+msgid "Duration:"
+msgstr "Dauer:"
